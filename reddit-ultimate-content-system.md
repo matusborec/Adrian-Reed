@@ -30,4 +30,8 @@ Brand: orange #FF4500, near-black #0B0B0B, white; font Poppins ExtraBold; mascot
 ## Rules
 - Only verifiable numbers, always with a source line.
 - Never promise results. Never encourage spam, ban evasion or fake engagement.
-- Formats: 8-slide carousels (4:5) and 15s kinetic-text reels (9:16). 2 slideshows + 1 reel per day.
+- Cadence: 1 slideshow + 1 reel per day (8-slide 4:5 carousel, 15s 9:16 kinetic-text reel).
+- The two posts of the same day must cover DIFFERENT topics and DIFFERENT angles. Never repeat the same information in both formats.
+  - Slideshow = the "what/why" (verified data, sourced, or a structured list).
+  - Reel = the "how/rule" (one practical tactic, mistake or contrarian take).
+- Every claim must be true and sourced or clearly framed as opinion/advice. If a number can't be verified, don't use it.
