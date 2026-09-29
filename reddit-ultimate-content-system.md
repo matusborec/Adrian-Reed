@@ -37,3 +37,6 @@ Brand: orange #FF4500, near-black #0B0B0B, white; font Poppins ExtraBold; mascot
   - Slideshow = the "what/why" (verified data, sourced, or a structured list).
   - Reel = the "how/rule" (one practical tactic, mistake or contrarian take).
 - Every claim must be true and sourced or clearly framed as opinion/advice. If a number can't be verified, don't use it.
+
+## Character (added 30 Sep)
+Mascot = the orange U logo (animated, rig: body + antenna + eyes). Reference profile: @tryholo.ai (AI CMO mascot). Learned: short (5-13s) visual/absurd character reels get 6-10K views; talky educational reels flop (34-118 views). Do NOT copy: real celebrities/likeness. Formats: (1) character micro-skits with a true punchline, (2) comment-reply posts, (3) clean carousels for the education.
