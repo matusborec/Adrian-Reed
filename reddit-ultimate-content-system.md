@@ -1,5 +1,7 @@
 # Reddit Ultimate — mother account content system (IG + TikTok)
 
+CLEAN RULE: slides contain only headline + one supporting line. No source lines, no small labels, no handle, no extra elements. Sources are verified internally, never printed on slides.
+
 Brand: orange #FF4500, near-black #0B0B0B, white; font Poppins ExtraBold; mascot U. No handle/"follow" on slides. Beta: educational, no product push.
 
 ## Pillars (rotate)
@@ -10,7 +12,7 @@ Brand: orange #FF4500, near-black #0B0B0B, white; font Poppins ExtraBold; mascot
 5. Finding the right subreddits (size, activity, rules, mod tolerance)
 6. Contrarian takes (Reddit hates ads, not helpful people)
 
-## Verified facts (cite the source on the slide)
+## Verified facts (sources kept internal, not shown on slides)
 - 514.6M weekly / 130.3M daily active uniques, Q2 2026 (Reddit earnings call, 30 Jul 2026)
 - Reddit = most-cited domain in AI answers (Peec AI, 30M sources, Mar 2026)
 - Reddit Google footprint ~33x Jun 2025 to Feb 2026 (BrightEdge)
@@ -28,7 +30,7 @@ Brand: orange #FF4500, near-black #0B0B0B, white; font Poppins ExtraBold; mascot
 - What we'd do if we launched on Reddit tomorrow (checklist)
 
 ## Rules
-- Only verifiable numbers, always with a source line.
+- Only verifiable numbers (verified internally, no source line on the slide).
 - Never promise results. Never encourage spam, ban evasion or fake engagement.
 - Cadence: 1 slideshow + 1 reel per day (8-slide 4:5 carousel, 15s 9:16 kinetic-text reel).
 - The two posts of the same day must cover DIFFERENT topics and DIFFERENT angles. Never repeat the same information in both formats.
